@@ -1,0 +1,6 @@
+mailto:rajashrirepale042@gmail.com
+Hustle#123
+
+[default]
+aws_access_key_id = AKIAS5H6RGXZ5A245RVF
+aws_secret_access_key = 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
